@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@n8tb1t/use-scroll-position": "^2.0.3",
+    "@netlify/next": "^1.4.9",
     "@types/three": "^0.167.1",
     "add": "^2.0.6",
     "classnames": "^2.5.1",
